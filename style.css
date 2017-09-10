@@ -1,0 +1,48 @@
+* {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0px;
+  
+}
+body{
+  background-image: url('topography/topography.png');
+ 
+}
+nav{
+  background-color:#333333;
+  border-image: url('topography/aperture.png');
+  text-align: right;
+  
+}
+li{
+  display: inline;
+  font-size: 30px;
+  padding: 20px;
+}
+
+
+div#text {
+  
+  /* padding: 40px 40px; */
+  /* margin: 20px 20px 20px 20px; */
+  border: 50px solid transparent;
+}
+
+h1{
+  font-size: 80px;
+  
+}
+h2, a {
+  text-decoration: dotted;
+  color: #ff0099;
+}
+
+h5 {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  padding: 5px;
+}
+
